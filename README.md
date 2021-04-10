@@ -36,7 +36,7 @@ Usage:
 	The mosaic keeps its look and feel when the browser's window is resized
 	(mosaic is not recalculated and it keeps proportions in squares, circles and characters)
 
-Among some files generated automatically by the emplate building the project 
+Among some files generated automatically by the template building the project 
 (json files, files in public folder...), the distribution package contains:
 
 	README.md					- This file
@@ -51,7 +51,7 @@ Among some files generated automatically by the emplate building the project
 Installation
 	The application is hosted in Azure Web Static App. 
 	To access it, enter the following URL in a browser:
-	https://mango-tree-009989910.azurestaticapps.net/
+	https://proud-glacier-05f8a4210.azurestaticapps.net
 			
 ---
 Acknowledge:
